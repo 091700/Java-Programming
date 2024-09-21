@@ -1,4 +1,4 @@
-public class Main {
+public class zy13{
 	public static void main(String[] args) {
     double a=3.4;
     double b=50.2;
