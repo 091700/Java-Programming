@@ -11,7 +11,7 @@ public class ChineseZodiac {
                 System.out.println("monkey");
                 break;
             case 1:
-                System.out.println("rooster"); // 注意：这里应为"rooster"的正确拼写是"rooster"（虽然可能是拼写错误，但按照图片内容提取）
+                System.out.println("rooster");
                 break;
             case 2:
                 System.out.println("dog");
