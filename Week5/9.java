@@ -9,4 +9,5 @@ public static void checkChar{
     } else if (ch >= '0' && ch <= '9') {
         System.out.println(ch + " number");
     }
-}}
+}
+}
