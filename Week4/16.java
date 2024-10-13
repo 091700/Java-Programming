@@ -1,4 +1,5 @@
-import java.util.Scanner;public class Labtask17 {    
+import java.util.Scanner;
+public class Labtask {    
   public static void main(String[] args) {        
   Scanner input = new Scanner(System.in);        
   System.out.println("Enter a number: ");        
